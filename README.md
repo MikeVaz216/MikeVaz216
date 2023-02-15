@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**MikeVaz216/MikeVaz216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+# Horario
+
+| Hora       | Lunes   | Martes  | Miercoles | Jueves  | Viernes |
+|------------|---------|---------|-----------|---------|---------|
+| 7:00 a.m.  | CV      | MRD     | MRD       | FS II   | MRD     |
+| 7:55 a.m.  | FS II   | Bio II  | Bio II    | AFDR IV | BIO II  |
+| 8:50 a.m.  | Mate IV | FS II   | Lit II    | Mate IV | Mate IV |
+| 9:45 a.m.  | Lit II  | Mate IV | FS II     | MRD     | FS II   |
+| R 10:35    | E       | C       | E         | S       | O       |
+| 11:05 a.m. | Eng IV  | CV      | OE IV     | EngIV   | HS II   |
+| 12:00 a.m. | HS I    | VC      | Mate Iv   | HS II   | Lit II  |
