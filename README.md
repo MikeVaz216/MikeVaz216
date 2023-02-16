@@ -11,7 +11,7 @@
 - 📫 How to reach me: IG: miguel.vazquez.216
 - ⚡ Fun fact: i love Apex
 
-# Horario
+# Schedule
 
 | Hora       | Lunes   | Martes  | Miercoles | Jueves  | Viernes |
 |------------|---------|---------|-----------|---------|---------|
