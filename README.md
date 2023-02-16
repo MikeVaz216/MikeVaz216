@@ -2,7 +2,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web page called brownrabbit.media
 - 🌱 I’m currently learning programming
